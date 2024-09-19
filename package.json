@@ -1,0 +1,25 @@
+{
+  "name": "hexagonal-api-soa",
+  "version": "1.0.0",
+  "description": "This is an hexagonal API is part of SOA subject homework",
+  "main": "index.ts",
+  "scripts": {
+    "test": "test",
+    "dev": "tsnd main.ts"
+  },
+  "author": "Yahir Alexander Gutiérrez Martínez",
+  "license": "ISC",
+  "dependencies": {
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.5.4",
+    "@types/signale": "^1.4.7",
+    "@types/uuid": "^10.0.0",
+    "dotenv": "^16.4.5",
+    "express": "4.19.2",
+    "mysql2": "3.11.0",
+    "signale": "^1.4.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.5.4",
+    "uuid": "^10.0.0"
+  }
+}
